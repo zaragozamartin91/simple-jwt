@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mz.jwt.JwtClaimsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-01T01:51:30" hostname="DESKTOP-BR6HI50" time="0.309">
+  <properties/>
+  <testcase name="testCustomClaims" classname="com.mz.jwt.JwtClaimsTest" time="0.309"/>
+  <system-out><![CDATA[eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJST0xFIjoid3JpdGVyIiwiaXNzIjoib24tam9icyIsImlhdCI6MTU2NDYyNDI5MCwiSU5UIjoidG9jY28ifQ.mdy7QxNh_hhuJKF7Q12RYvF9H0ccrBuEV9WGxCEYAgc
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

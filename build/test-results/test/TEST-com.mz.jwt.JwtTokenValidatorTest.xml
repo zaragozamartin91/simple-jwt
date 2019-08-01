@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mz.jwt.JwtTokenValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-01T01:51:30" hostname="DESKTOP-BR6HI50" time="0.011">
+  <properties/>
+  <testcase name="validateTokenFailsBecauseTokenWasAltered" classname="com.mz.jwt.JwtTokenValidatorTest" time="0.003"/>
+  <testcase name="validateTokenOk" classname="com.mz.jwt.JwtTokenValidatorTest" time="0.003"/>
+  <testcase name="validateTokenFailsBecauseTokenExpired" classname="com.mz.jwt.JwtTokenValidatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
